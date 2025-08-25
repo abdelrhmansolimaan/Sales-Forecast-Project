@@ -1,0 +1,5 @@
+pandas
+matplotlib
+prophet
+statsmodels
+python-docx
